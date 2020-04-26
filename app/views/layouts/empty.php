@@ -9,7 +9,7 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
 
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/style-2.css">
 
   <link rel="icon" href="/images/favicon.ico"/>   
   
@@ -28,28 +28,8 @@
 
     <header>        
       PHP & Bootstrap - <span class="text-danger">NO JS</span>
-    </header>    
-   
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <div class="container">        
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="/">Home</a>
-            <a class="nav-item nav-link" href="/table">Урок 1</a>
-            <a class="nav-item nav-link" href="/table/color">Урок 2</a>
-            <a class="nav-item nav-link" href="/form">Урок 3</a>
-          </div>          
-        </div>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-item nav-link btn btn-secondary mr-1" href="https://github.com/LesAL2012/php-ne-beginner" target="_blank"><i class="fab fa-github"></i> &rarr; BEGINNER</a>
-          </div>          
-        </div>
-      </div>
-    </nav>  
+    </header>   
+    
 
     <div class="content">
       <div class="container">    
