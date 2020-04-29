@@ -5,7 +5,7 @@
 <hr>
 
 <div class="bg-success m-1 p-1 border border-dark rounded-pill">
-    <h2 class="text-center text-light"><?=$revText?></h2>
+    <h2 class="text-center text-light"><?= $revText ?></h2>
 </div>
 
 <hr>

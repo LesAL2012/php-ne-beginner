@@ -8,6 +8,6 @@
 
 <hr>
 
-<h2 class="text-danger text-center mb-5"><?=$revText?></h2>
+<h2 class="text-danger text-center mb-5"><?= $revText ?></h2>
 
 <a class="btn-lg btn-info float-right linkBtn" href="/form">Назад</a>

@@ -1,0 +1,7 @@
+{
+    "name": "les/nix2",
+    "description": "TRAINEE",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}

@@ -13,9 +13,9 @@
 
   <link rel="icon" href="/images/favicon.ico"/>   
   
-  <title><?=$title?>::<?=$meta['title']?></title>
-  <meta name="description" content="<?=$meta['desc']?>">
-  <meta name="keywords" content="<?=$meta['keywords']?>">
+  <title><?= $title ?>::<?= $meta['title'] ?></title>
+  <meta name="description" content="<?= $meta['desc'] ?>">
+  <meta name="keywords" content="<?= $meta['keywords'] ?>">
 
   <!-- icon font -->
   <script src="/js/all.js" defer></script>
@@ -52,9 +52,9 @@
     </nav>  
 
     <div class="content">
-      <div class="container">    
+      <div class="container">
 
-        <?=$content?>
+          <?= $content ?>
       
       </div>
     </div>
@@ -64,7 +64,7 @@
         <div class='row text-center' >
             <div class='col-lg-2 col-md-4 col-sm-4 col-4' >
                 <a href='https://resume.ts.biz.ua/' target='_blank' class='text-white' rel="noopener noreferrer">
-                    <?echo date('Y')?> &copy; O.LES
+                    <?= date('Y') ?> &copy; O.LES
                 </a>
             </div>
             <div class='col-lg-2 col-md-4 col-sm-4 col-4'>
